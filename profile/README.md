@@ -27,4 +27,5 @@ UIT Meetup や UIT INSIDE で管理しているオープンソース資産の公
 ## クレジット
 
 - UITのロゴはCCライセンスに基づき[w3.org](https://www.w3.org/html/logo/)を改変し作成しています。
-- このコミュニティはLINEヤフー株式会社でフロントエンド開発に携わるチームの有志によって運営されています。
+- このコミュニティはLINEヤフー株式会社にて、フロントエンド開発に携わるチームの有志によって運営されています。
+  - 会社としての OSS はこちら [LINE](https://github.com/line) / [Yahoo! JAPAN](https://github.com/yahoojapan)
